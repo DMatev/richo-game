@@ -1,0 +1,10 @@
+body {
+    touch-action: manipulation;
+}
+canvas {
+    touch-action: manipulation;
+}
+#game-container {
+    display: grid;
+    touch-action: manipulation;
+}
